@@ -8,4 +8,4 @@ var textHalf = textChanged.length/2;
 console.log(textHalf);
 var textChangedNew = textChanged.substr(0, 72);
 
-console.log(textChangedNew)
+console.log(textChangedNew);
